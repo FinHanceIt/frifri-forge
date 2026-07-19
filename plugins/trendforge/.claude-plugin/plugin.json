@@ -1,0 +1,8 @@
+{
+  "name": "trendforge",
+  "version": "1.0.0",
+  "description": "TrendForge — a standalone trend-prediction megastructure: 168 specialist agents across 20 divisions that harvest signals from startup directories, app stores, social platforms, search, dev ecosystems, funding, research, commerce and global markets, then dedupe, grade momentum, detect emerging trends and forecast what is next with confidence intervals — surfacing concrete app and product opportunities. APIs-first and compliance-gated.",
+  "author": { "name": "Fri", "email": "frifricreatives@gmail.com" },
+  "keywords": ["trends","forecasting","scraping","signals","startups","app-ideas","prediction","intelligence","agents","megastructure"],
+  "license": "MIT"
+}

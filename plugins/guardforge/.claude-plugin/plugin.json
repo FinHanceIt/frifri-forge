@@ -1,0 +1,23 @@
+{
+  "name": "guardforge",
+  "version": "1.0.0",
+  "description": "GuardForge — a guardian-agent team + real Claude Code hooks that review code & build changes and gate them PASS / PASS-WITH-FIXES / BLOCK. Guardians cover security (secrets, injection), quality (tests, hallucinated APIs), integrity/compliance (licenses, PII/GDPR) and safety/ethics (red-line veto); a triage scanner runs the deterministic checks the hooks fire. Defensive by design — detects and advises, never writes exploits. Bilingual RO/EN.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": [
+    "guardrails",
+    "hooks",
+    "code-review",
+    "security",
+    "secrets",
+    "compliance",
+    "licenses",
+    "quality-gate",
+    "defensive",
+    "agents",
+    "bilingual"
+  ],
+  "license": "MIT"
+}

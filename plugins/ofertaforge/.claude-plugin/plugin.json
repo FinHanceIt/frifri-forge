@@ -1,0 +1,11 @@
+{
+  "name": "ofertaforge",
+  "version": "1.1.0",
+  "description": "A bidding, prospecting & negotiation team as 10 agents for solo creatives: prospect -> scope -> market-benchmark -> price (fair floor/target/anchor) -> write the offer (RO/EN) -> negotiate (trade, don't cave) -> close -> upsell -> learn. Multi-currency (RON/EUR/USD), multi-tier (RO/EU/US), with a built-in starter rate card, human gates at scope, price and send, plus a deal ledger that learns across runs.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": ["sales", "bidding", "ofertare", "quoting", "pricing", "negotiation", "prospecting", "freelance", "agents", "romania"],
+  "license": "MIT"
+}

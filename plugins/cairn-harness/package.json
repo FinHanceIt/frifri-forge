@@ -1,0 +1,27 @@
+{
+  "name": "cairn-harness",
+  "version": "0.2.0",
+  "description": "A verification harness for AI coding agents: a 5-agent crew (audit -> plan -> roast -> implement -> review) plus a mutation-testing gate that catches an agent weakening or deleting a test. The gate produces the evidence; the agent never does. Composes with mattpocock/skills for TDD/diagnose/review discipline. Ships shadow-first.",
+  "type": "module",
+  "bin": {
+    "cairn-harness": "bin/cli.mjs",
+    "cairn": "bin/cli.mjs"
+  },
+  "files": [
+    "bin/",
+    "agents/",
+    "skills/",
+    "references/",
+    "scripts/",
+    ".claude-plugin/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "engines": { "node": ">=18" },
+  "keywords": ["ai-agent","coding-agent","tdd","mutation-testing","code-review","verification","gate","reward-hacking","claude-code"],
+  "author": { "name": "Fri", "url": "https://github.com/FinHanceIt" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/FinHanceIt/cairn-harness.git" },
+  "homepage": "https://github.com/FinHanceIt/cairn-harness#readme"
+}

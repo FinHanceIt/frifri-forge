@@ -1,0 +1,8 @@
+{
+  "name": "shipforge",
+  "version": "1.0.0",
+  "description": "ShipForge — the anti-build studio that drives anything already built to LIVE: 1 director skill + 6 agents (triage, deploy, smoke-test, telemetry, first-user, accountability sentinel). Reality gate — nothing is 'shipped' without a URL that loads, a passing smoke test, and one real telemetry event. Keeps a Ship Ledger; the 5/5 sentinel forces ship/kill/freeze on the stuck pile. Managed-first, never-fabricate, RO/EN.",
+  "author": {
+    "name": "FriFri Creatives"
+  }
+}

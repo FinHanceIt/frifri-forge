@@ -1,0 +1,23 @@
+{
+  "name": "inkforge",
+  "version": "1.0.0",
+  "description": "InkForge — a 7-agent human-voice writing studio. Drafts any format (fiction, scripts, essays, long-form, marketing, academic-style) in a bespoke author voice with a different personality per assignment, then runs a de-AI pass against an 8-point tell list and a real textstats check so the prose reads genuinely human — not like AI. Bilingual RO/EN. Honest by design: writes your own/original work, and never academic fraud or 'undetectable' claims.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": [
+    "writing",
+    "ghostwriting",
+    "human-voice",
+    "fiction",
+    "screenwriting",
+    "copywriting",
+    "de-ai",
+    "stylometry",
+    "personas",
+    "bilingual",
+    "agents"
+  ],
+  "license": "MIT"
+}

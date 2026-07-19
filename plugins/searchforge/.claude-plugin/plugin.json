@@ -1,0 +1,11 @@
+{
+  "name": "searchforge",
+  "version": "1.0.0",
+  "description": "Search-visibility studio as an agent team: an orchestrator + 17 specialists for SEO, SEM and GEO/AEO - technical, on-page, content, international (RO/EU/US hreflang), local, e-commerce, link-building, digital PR, video, structured data, paid search, CRO, analytics, and getting cited by ChatGPT, Perplexity, Gemini and Google AI Overviews. Chat-first on Search Console + free tools, bilingual RO/EN, white-hat, no fabricated metrics.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": ["seo", "sem", "geo", "aeo", "ai-search", "answer-engine-optimization", "content", "copywriting", "technical-seo", "international-seo", "local-seo", "ecommerce-seo", "link-building", "digital-pr", "video-seo", "structured-data", "cro", "analytics", "audit", "google-search-console", "agents", "orchestration", "romania"],
+  "license": "MIT"
+}

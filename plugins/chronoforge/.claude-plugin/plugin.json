@@ -1,0 +1,8 @@
+{
+  "name": "chronoforge",
+  "version": "1.1.0",
+  "description": "ChronoForge — an Esoteric-Seeded, Science-Locked event-prediction studio. 27 agents turn lateral and esoteric framings (Reality Transurfing, quantum-shift, divination) into measurable present-signal proxies, lock them against physics (forward-inference-only, no tachyon signaling), forecast with a calibrated ensemble, and keep a rolling Brier Lens Ledger so fringe lenses earn weight or get killed. Reuses Project Oracle + TrendForge. No fabrication; forward inference only.",
+  "author": { "name": "Fri", "email": "frifricreatives@gmail.com" },
+  "keywords": ["forecasting","prediction","events","bayesian","calibration","brier","esoteric-seeded","reality-transurfing","complexity","osint","agents","chemistry","reflexivity","networks","invention"],
+  "license": "MIT"
+}

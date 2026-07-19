@@ -1,0 +1,8 @@
+{
+  "name": "llmforge",
+  "version": "1.0.0",
+  "description": "LLMForge — a virtual AI/LLM engineering studio: 1 director skill + 8 specialist agents covering system architecture, RAG, agentic systems, model selection & fine-tuning, provider integration code, evals, safety guardrails, and cost/deployment. Quality and risk gates before every ship verdict. English agents, RO/EN interaction, zero fabricated metrics.",
+  "author": {
+    "name": "FriFri Creatives"
+  }
+}

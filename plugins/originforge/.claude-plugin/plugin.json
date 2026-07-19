@@ -1,0 +1,22 @@
+{
+  "name": "originforge",
+  "version": "1.0.0",
+  "description": "A 9-agent originality & authenticity studio. Detects AI-likelihood and plagiarism the way market engines do (GPTZero, Originality.ai, Copyleaks, Turnitin, Winston), explains exactly what would get flagged and why, then revises the user's OWN or AI-assisted drafts into genuinely human, original writing and re-scans for residual risk. Bilingual RO/EN. Honest by design: no 'guaranteed undetectable', and it refuses to disguise copied or third-party content as original.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": [
+    "ai-detection",
+    "plagiarism",
+    "originality",
+    "humanizer",
+    "stylometry",
+    "content-quality",
+    "editing",
+    "publishing",
+    "agents",
+    "bilingual"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,3 @@
+TheoForge QC 2026-07-07
+files=28 seats=134 (living 89 / necropolis 36 / pantheon 9) catalog=279 golden=12
+VERDICT: PASS

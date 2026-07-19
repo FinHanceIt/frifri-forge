@@ -1,0 +1,120 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "frifri-forge",
+  "version": "1.0.0",
+  "description": "FriFri Creatives - the full forge fleet: multi-agent studios and verification harnesses for Claude Code.",
+  "owner": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "aevumforge",
+      "description": "AevumForge — a virtual longevity & regeneration research institute: 1 director skill + 31 specialist agents in two co-equal hemispheres, Scientia (molecular biology, genetics, gene-editing, the 12 Hallmarks of Aging) and Hermetica (alchemical hypothesis-generation), behind a bioethics-safety gate and a never-fabricate integrity gate. Generate and stress-test rejuvenation hypotheses, appraise longevity claims. Understanding, not wet-lab. RO/EN.",
+      "source": "./plugins/aevumforge",
+      "version": "1.1.0"
+    },
+    {
+      "name": "chronoforge",
+      "description": "ChronoForge — an Esoteric-Seeded, Science-Locked event-prediction studio. 27 agents turn lateral and esoteric framings (Reality Transurfing, quantum-shift, divination) into measurable present-signal proxies, lock them against physics (forward-inference-only, no tachyon signaling), forecast with a calibrated ensemble, and keep a rolling Brier Lens Ledger so fringe lenses earn weight or get killed. Reuses Project Oracle + TrendForge. No fabrication; forward inference only.",
+      "source": "./plugins/chronoforge",
+      "version": "1.1.0"
+    },
+    {
+      "name": "council-of-the-scythe",
+      "description": "Council of the Scythe — portfolio governance, the anti-forge. On demand or quarterly it reviews the whole fleet and every product and FORCES a verdict on each: SHIP / KILL / FREEZE / IGNORE, with a 100-point attention allocation. 1 skill + 3 agents: a cold strategist, a red team that attacks both keeping and killing, and a reckoner that scores Fri's predictions vs reality (Brier-style self-calibration). Small but hard — it defends Fri against his own instinct to start. RO/EN.",
+      "source": "./plugins/council-of-the-scythe",
+      "version": "1.0.0"
+    },
+    {
+      "name": "guardforge",
+      "description": "GuardForge — a guardian-agent team + real Claude Code hooks that review code & build changes and gate them PASS / PASS-WITH-FIXES / BLOCK. Guardians cover security (secrets, injection), quality (tests, hallucinated APIs), integrity/compliance (licenses, PII/GDPR) and safety/ethics (red-line veto); a triage scanner runs the deterministic checks the hooks fire. Defensive by design — detects and advises, never writes exploits. Bilingual RO/EN.",
+      "source": "./plugins/guardforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "ideaforge",
+      "description": "A domain-agnostic think-tank as an 11-agent team: turn any idea, problem, or need into an honest, tested verdict. The Facilitator frames the question and picks a mode; the thinkers generate, ground in cited evidence, run a premortem, weigh ethics, and scan the future; the Strategist scores options and gives a recommendation + next action. Five modes (Spark, Crucible, Horizon, Verdict, Roundtable), two gates, optional AppFactory build brief. Bilingual RO/EN.",
+      "source": "./plugins/ideaforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "inkforge",
+      "description": "InkForge — a 7-agent human-voice writing studio. Drafts any format (fiction, scripts, essays, long-form, marketing, academic-style) in a bespoke author voice with a different personality per assignment, then runs a de-AI pass against an 8-point tell list and a real textstats check so the prose reads genuinely human — not like AI. Bilingual RO/EN. Honest by design: writes your own/original work, and never academic fraud or 'undetectable' claims.",
+      "source": "./plugins/inkforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "llmforge",
+      "description": "LLMForge — a virtual AI/LLM engineering studio: 1 director skill + 8 specialist agents covering system architecture, RAG, agentic systems, model selection & fine-tuning, provider integration code, evals, safety guardrails, and cost/deployment. Quality and risk gates before every ship verdict. English agents, RO/EN interaction, zero fabricated metrics.",
+      "source": "./plugins/llmforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "ofertaforge",
+      "description": "A bidding, prospecting & negotiation team as 10 agents for solo creatives: prospect -> scope -> market-benchmark -> price (fair floor/target/anchor) -> write the offer (RO/EN) -> negotiate (trade, don't cave) -> close -> upsell -> learn. Multi-currency (RON/EUR/USD), multi-tier (RO/EU/US), with a built-in starter rate card, human gates at scope, price and send, plus a deal ledger that learns across runs.",
+      "source": "./plugins/ofertaforge",
+      "version": "1.1.0"
+    },
+    {
+      "name": "originforge",
+      "description": "A 9-agent originality & authenticity studio. Detects AI-likelihood and plagiarism the way market engines do (GPTZero, Originality.ai, Copyleaks, Turnitin, Winston), explains exactly what would get flagged and why, then revises the user's OWN or AI-assisted drafts into genuinely human, original writing and re-scans for residual risk. Bilingual RO/EN. Honest by design: no 'guaranteed undetectable', and it refuses to disguise copied or third-party content as original.",
+      "source": "./plugins/originforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "psycheforge",
+      "description": "PsycheForge — a 15-unit self-transformation studio for mental reprogramming of the user's OWN patterns: beliefs, habits, fears, states, identity narratives. Six registers (cognitive, behavioral, hypnotic, imaginal, somatic, narrative) staged on the alchemical Magnum Opus (Jungian, symbolic — no magic claims). Evidence-labeled techniques, safety gates with STOP authority, measurable protocols with kill criteria, longitudinal ledger. RO/EN.",
+      "source": "./plugins/psycheforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "searchforge",
+      "description": "Search-visibility studio as an agent team: an orchestrator + 17 specialists for SEO, SEM and GEO/AEO - technical, on-page, content, international (RO/EU/US hreflang), local, e-commerce, link-building, digital PR, video, structured data, paid search, CRO, analytics, and getting cited by ChatGPT, Perplexity, Gemini and Google AI Overviews. Chat-first on Search Console + free tools, bilingual RO/EN, white-hat, no fabricated metrics.",
+      "source": "./plugins/searchforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "shipforge",
+      "description": "ShipForge — the anti-build studio that drives anything already built to LIVE: 1 director skill + 6 agents (triage, deploy, smoke-test, telemetry, first-user, accountability sentinel). Reality gate — nothing is 'shipped' without a URL that loads, a passing smoke test, and one real telemetry event. Keeps a Ship Ledger; the 5/5 sentinel forces ship/kill/freeze on the stuck pile. Managed-first, never-fabricate, RO/EN.",
+      "source": "./plugins/shipforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "statecraft",
+      "description": "Statecraft — a virtual state that governs a whole society A to Z: 1 director skill + 24 agents across all three branches (head of state & government, full cabinet, independent central bank, parliament + opposition, constitutional court), plus oversight (audit, free press, the citizenry), a civil-service analytical brain, foresight, and a crisis war-room. Configurable regime with checks & balances by default. Simulation-boundary, never-fabricate, and evenhandedness gates. Bilingual RO/EN.",
+      "source": "./plugins/statecraft",
+      "version": "1.0.0"
+    },
+    {
+      "name": "theoforge",
+      "description": "TheoForge — the Eternal Council: 134 seated voices in 27 chambers simulating masters, priests, monks, priestesses, mystics, ascended masters and archetypal deities from the world's religions and spiritual forms, living and dead, plus a ~220-tradition catalog and an Invoker for anything uncatalogued. Full-council plenary on every question; every voice answers from its own perspective. Never-fabricate spine. RO/EN.",
+      "source": "./plugins/theoforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "trendforge",
+      "description": "TrendForge — a standalone trend-prediction megastructure: 168 specialist agents across 20 divisions that harvest signals from startup directories, app stores, social platforms, search, dev ecosystems, funding, research, commerce and global markets, then dedupe, grade momentum, detect emerging trends and forecast what is next with confidence intervals — surfacing concrete app and product opportunities. APIs-first and compliance-gated.",
+      "source": "./plugins/trendforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "waveforge",
+      "description": "A 7-agent binaural & brainwave audio studio: turn an intent (relax, focus, sleep, or publishable content) into a finished, headphone-ready track. Designs the entrainment protocol (carrier + beat across delta/theta/alpha/beta/gamma), builds the ambient bed, writes guided scripts, renders a REAL stereo .wav with Python, FFT-verifies the beat, runs a safety gate, and writes release copy. Bilingual RO/EN, honest non-medical claims, human gates.",
+      "source": "./plugins/waveforge",
+      "version": "1.0.0"
+    },
+    {
+      "name": "appfactory-enterprise",
+      "description": "A full enterprise-grade app development company as an agent team: 80 specialist agents across 14 departments - any web stack (React, Next.js, Vue, Angular, Node, TypeScript, Python, Java, PHP, .NET), a full game production pipeline, and an independent audit office - with an orchestration skill that routes any mission through the right roles. v1.0: every agent research-hardened (quantified done-gates, role boundaries, June-2026 stack knowledge, skills.sh integrations).",
+      "source": "./plugins/appfactory-enterprise",
+      "version": "1.0.0"
+    },
+    {
+      "name": "cairn-harness",
+      "description": "A verification harness for AI coding agents: a 5-agent crew (audit -> plan -> roast -> implement -> review) plus a mutation-testing gate that catches an agent weakening or deleting a test. The gate produces the evidence; the agent never does. Composes with mattpocock/skills for TDD/diagnose/review discipline. Ships shadow-first.",
+      "source": "./plugins/cairn-harness",
+      "version": "0.2.0"
+    }
+  ]
+}

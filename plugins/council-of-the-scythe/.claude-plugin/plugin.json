@@ -1,0 +1,8 @@
+{
+  "name": "council-of-the-scythe",
+  "version": "1.0.0",
+  "description": "Council of the Scythe — portfolio governance, the anti-forge. On demand or quarterly it reviews the whole fleet and every product and FORCES a verdict on each: SHIP / KILL / FREEZE / IGNORE, with a 100-point attention allocation. 1 skill + 3 agents: a cold strategist, a red team that attacks both keeping and killing, and a reckoner that scores Fri's predictions vs reality (Brier-style self-calibration). Small but hard — it defends Fri against his own instinct to start. RO/EN.",
+  "author": {
+    "name": "FriFri Creatives"
+  }
+}

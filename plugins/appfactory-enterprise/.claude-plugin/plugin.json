@@ -1,0 +1,11 @@
+{
+  "name": "appfactory-enterprise",
+  "version": "1.0.0",
+  "description": "A full enterprise-grade app development company as an agent team: 80 specialist agents across 14 departments - any web stack (React, Next.js, Vue, Angular, Node, TypeScript, Python, Java, PHP, .NET), a full game production pipeline, and an independent audit office - with an orchestration skill that routes any mission through the right roles. v1.0: every agent research-hardened (quantified done-gates, role boundaries, June-2026 stack knowledge, skills.sh integrations).",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": ["agents", "enterprise", "app-development", "web-dev", "react", "gaming", "audit", "orchestration", "company", "factory"],
+  "license": "MIT"
+}

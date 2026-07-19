@@ -1,0 +1,9 @@
+{
+  "name": "statecraft",
+  "version": "1.0.0",
+  "description": "Statecraft — a virtual state that governs a whole society A to Z: 1 director skill + 24 agents across all three branches (head of state & government, full cabinet, independent central bank, parliament + opposition, constitutional court), plus oversight (audit, free press, the citizenry), a civil-service analytical brain, foresight, and a crisis war-room. Configurable regime with checks & balances by default. Simulation-boundary, never-fabricate, and evenhandedness gates. Bilingual RO/EN.",
+  "author": {
+    "name": "FriFri Creatives"
+  },
+  "keywords": ["government", "simulation", "policy", "governance", "worldbuilding", "civics", "statecraft"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "frifri-forge",
+  "version": "1.0.0",
+  "description": "FriFri Creatives forge fleet - a Claude Code plugin marketplace (18 multi-agent studios + verification harnesses) with a generic npx installer.",
+  "type": "module",
+  "bin": { "frifri-forge": "bin/cli.mjs" },
+  "files": ["bin/", "plugins/", ".claude-plugin/", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["claude-code","plugin","marketplace","agents","skills","forge"],
+  "author": { "name": "Fri", "url": "https://github.com/FinHanceIt" },
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/FinHanceIt/frifri-forge.git" },
+  "homepage": "https://github.com/FinHanceIt/frifri-forge#readme"
+}

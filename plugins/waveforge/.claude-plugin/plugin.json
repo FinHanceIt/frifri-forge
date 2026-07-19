@@ -1,0 +1,22 @@
+{
+  "name": "waveforge",
+  "version": "1.0.0",
+  "description": "A 7-agent binaural & brainwave audio studio: turn an intent (relax, focus, sleep, or publishable content) into a finished, headphone-ready track. Designs the entrainment protocol (carrier + beat across delta/theta/alpha/beta/gamma), builds the ambient bed, writes guided scripts, renders a REAL stereo .wav with Python, FFT-verifies the beat, runs a safety gate, and writes release copy. Bilingual RO/EN, honest non-medical claims, human gates.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": [
+    "audio",
+    "binaural-beats",
+    "brainwave",
+    "entrainment",
+    "sound-design",
+    "meditation",
+    "focus",
+    "sleep",
+    "agents",
+    "music-production"
+  ],
+  "license": "MIT"
+}

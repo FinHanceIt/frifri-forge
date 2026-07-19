@@ -1,0 +1,7 @@
+node_modules/
+reports/
+.stryker.gate.json
+.stryker-tmp/
+.cairn/mutation-baseline.json
+*.log
+.DS_Store

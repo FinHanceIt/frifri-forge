@@ -1,0 +1,11 @@
+{
+  "name": "ideaforge",
+  "version": "1.0.0",
+  "description": "A domain-agnostic think-tank as an 11-agent team: turn any idea, problem, or need into an honest, tested verdict. The Facilitator frames the question and picks a mode; the thinkers generate, ground in cited evidence, run a premortem, weigh ethics, and scan the future; the Strategist scores options and gives a recommendation + next action. Five modes (Spark, Crucible, Horizon, Verdict, Roundtable), two gates, optional AppFactory build brief. Bilingual RO/EN.",
+  "author": {
+    "name": "Fri",
+    "email": "frifricreatives@gmail.com"
+  },
+  "keywords": ["think-tank", "brainstorm", "ideation", "decision-making", "foresight", "red-team", "premortem", "strategy", "creativity", "agents"],
+  "license": "MIT"
+}
