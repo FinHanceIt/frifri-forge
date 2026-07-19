@@ -115,6 +115,12 @@
       "description": "A verification harness for AI coding agents: a 5-agent crew (audit -> plan -> roast -> implement -> review) plus a mutation-testing gate that catches an agent weakening or deleting a test. The gate produces the evidence; the agent never does. Composes with mattpocock/skills for TDD/diagnose/review discipline. Ships shadow-first.",
       "source": "./plugins/cairn-harness",
       "version": "0.2.0"
+    },
+    {
+      "name": "prompt-forge",
+      "description": "PromptForge — a virtual prompt-engineering studio. A 12-agent crew that designs, writes, red-teams, and ships production-grade prompts and entire agent teams for any AI model or framework (Claude, GPT, Gemini, open models, LangGraph, CrewAI, n8n, and more). Tuned for the Claude 5 (Fable) era.",
+      "source": "./plugins/prompt-forge",
+      "version": "2.0.0"
     }
   ]
 }

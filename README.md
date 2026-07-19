@@ -1,6 +1,6 @@
 # frifri-forge
 
-**FriFri Creatives' forge fleet as a Claude Code plugin marketplace** — 18 multi-agent studios and verification harnesses, installable natively or copied into any repo with `npx`.
+**FriFri Creatives' forge fleet as a Claude Code plugin marketplace** — 19 multi-agent studios and verification harnesses, installable natively or copied into any repo with `npx`.
 
 ## Install
 
@@ -41,6 +41,7 @@ npx github:FinHanceIt/frifri-forge add --all
 | `waveforge` | 7-agent binaural/brainwave audio studio: designs the protocol, renders a real .wav, FFT-verifies the beat, safety-gates. |
 | `appfactory-enterprise` | Enterprise app-dev company: 80 agents across 14 departments (any web stack + game pipeline + independent audit office). |
 | `cairn-harness` | Verification harness for AI coding agents: a 5-agent crew + a mutation-testing gate that catches a weakened/deleted test. |
+| `prompt-forge` | Prompt-engineering studio: a 12-skill crew that designs, writes, red-teams and ships production-grade prompts and whole agent teams for any model/framework. |
 
 ## Notes
 - The agents + skills activate in a Claude Code-compatible runtime. The marketplace catalog is `.claude-plugin/marketplace.json`.

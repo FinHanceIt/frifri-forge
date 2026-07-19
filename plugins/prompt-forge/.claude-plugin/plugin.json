@@ -1,0 +1,18 @@
+{
+  "name": "prompt-forge",
+  "version": "2.0.0",
+  "description": "PromptForge — a virtual prompt-engineering studio. A 12-agent crew that designs, writes, red-teams, and ships production-grade prompts and entire agent teams for any AI model or framework (Claude, GPT, Gemini, open models, LangGraph, CrewAI, n8n, and more). Tuned for the Claude 5 (Fable) era.",
+  "author": {
+    "name": "Fri — FriFri Creatives"
+  },
+  "license": "MIT",
+  "keywords": [
+    "prompt-engineering",
+    "multi-agent",
+    "agent-teams",
+    "meta-prompting",
+    "orchestration",
+    "red-team",
+    "system-prompts"
+  ]
+}
